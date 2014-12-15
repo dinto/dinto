@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2824678459">
+    <data-source source="LOCAL" name="Rails dinto: development" uuid="29582de2-9fd6-45f9-a552-490790d303b7">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/dinto</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfd8dfcfdfdcdfc5</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails dinto: test" uuid="1244d0d1-08b4-4a58-9c2f-7cad4f00d693">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:dinto_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails dinto: production" uuid="90e7e4bc-2db0-4a54-90ab-a188ea40b11c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:dinto_production</jdbc-url>
+      <user-name>dinto</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfeedfe3dfe4dffedfe5dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

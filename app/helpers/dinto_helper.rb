@@ -1,0 +1,2 @@
+module DintoHelper
+end
